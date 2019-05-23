@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../PycharmProjects/Connecty bot/.idea/Connecty bot.iml" filepath="$PROJECT_DIR$/../PycharmProjects/Connecty bot/.idea/Connecty bot.iml" />
       <module fileurl="file://$PROJECT_DIR$/../acmi/.idea/acmi.iml" filepath="$PROJECT_DIR$/../acmi/.idea/acmi.iml" />
       <module fileurl="file://$USER_HOME$/PycharmProjects/discordbot/.idea/discordbot.iml" filepath="$USER_HOME$/PycharmProjects/discordbot/.idea/discordbot.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/mysite.iml" filepath="$PROJECT_DIR$/.idea/mysite.iml" />
